@@ -1,0 +1,17 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "Ticket booking demo app",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "Mohamed Dowbi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http": "0.0.1-security"
+  }
+}
